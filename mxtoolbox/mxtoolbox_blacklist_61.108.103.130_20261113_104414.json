@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-11-13T01:44:14.659Z",
+  "url": "https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a61.108.103.130&run=toolpage#",
+  "targetIp": "61.108.103.130",
+  "screenshotPath": "/home/runner/Downloads/spammail/mxtoolbox/mxtoolbox_blacklist_61.108.103.130_20261113_104414.png",
+  "details": {
+    "alertMessage": "We notice you are on a blacklist. Click here for some suggestions",
+    "listedCount": 1,
+    "listedDetails": [
+      "LISTED | SERVICESNET | 61.108.103.130 was listed  Detail | 2100 | 46 | Ignore"
+    ],
+    "timeoutCount": 1,
+    "timeoutDetails": [
+      "TIMEOUT | DAN TOREXIT | 0 | Ignore"
+    ],
+    "okCount": 58,
+    "totalChecked": 60
+  }
+}
