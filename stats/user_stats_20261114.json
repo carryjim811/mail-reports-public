@@ -1,0 +1,51 @@
+[
+  {
+    "email": "kimjg@dkref.co.kr",
+    "total": "(30건)",
+    "ratio": "50.00%",
+    "normal": "30건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "jhyoon@dkis.co.kr",
+    "total": "(8건)",
+    "ratio": "13.33%",
+    "normal": "8건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "commvault@dkpia.com",
+    "total": "(8건)",
+    "ratio": "13.33%",
+    "normal": "8건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-svc-cs@dkpia.com",
+    "total": "(6건)",
+    "ratio": "10.00%",
+    "normal": "6건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-db-cs@dkpia.com",
+    "total": "(5건)",
+    "ratio": "8.33%",
+    "normal": "5건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "lyh8133@hwangnyongwon.com",
+    "total": "(2건)",
+    "ratio": "3.33%",
+    "normal": "2건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "skpak@hwangnyongwon.com",
+    "total": "(1건)",
+    "ratio": "1.67%",
+    "normal": "1건 (100%)",
+    "abnormal": "0건 (0%)"
+  }
+]
