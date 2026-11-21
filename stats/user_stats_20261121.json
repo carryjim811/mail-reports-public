@@ -1,0 +1,23 @@
+[
+  {
+    "email": "commvault@dkpia.com",
+    "total": "(9건)",
+    "ratio": "45.00%",
+    "normal": "9건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-svc-cs@dkpia.com",
+    "total": "(6건)",
+    "ratio": "30.00%",
+    "normal": "6건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-db-cs@dkpia.com",
+    "total": "(5건)",
+    "ratio": "25.00%",
+    "normal": "5건 (100%)",
+    "abnormal": "0건 (0%)"
+  }
+]
