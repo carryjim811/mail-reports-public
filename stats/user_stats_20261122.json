@@ -1,0 +1,37 @@
+[
+  {
+    "email": "commvault@dkpia.com",
+    "total": "(8건)",
+    "ratio": "36.36%",
+    "normal": "8건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-svc-cs@dkpia.com",
+    "total": "(6건)",
+    "ratio": "27.27%",
+    "normal": "6건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "nx-db-cs@dkpia.com",
+    "total": "(5건)",
+    "ratio": "22.73%",
+    "normal": "5건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "thkwon@dkref.co.kr",
+    "total": "(2건)",
+    "ratio": "9.09%",
+    "normal": "2건 (100%)",
+    "abnormal": "0건 (0%)"
+  },
+  {
+    "email": "st.cho@dkdongshin.co.kr",
+    "total": "(1건)",
+    "ratio": "4.55%",
+    "normal": "1건 (100%)",
+    "abnormal": "0건 (0%)"
+  }
+]
